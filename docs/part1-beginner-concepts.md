@@ -1,6 +1,3 @@
-# Part 1 — Beginner Concepts You Need to Know
-
-> Companion doc for the YouTube series: **DevOps Practice Guide** — Episode 1 (8 min)
 
 ---
 
