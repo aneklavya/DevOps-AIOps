@@ -1,7 +1,5 @@
 # Part 2 — Understanding the Workflow
 
-> Companion doc for the YouTube series: **DevOps + AIOps Series** — Part 2
-
 ---
 
 ## Overview
