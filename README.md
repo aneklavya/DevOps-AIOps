@@ -1,20 +1,4 @@
-# DevOps + AIOps Series
 
-> A full end-to-end DevOps project with AIOps integration — so you can connect the dots between how AI is helping automate DevOps tasks today.
-
----
-
-## Welcome
-
-Hey everyone!
-
-Welcome to my DevOps + AI series where we build an end-to-end DevOps project with an AIOps integration.
-
-A lot of you have been asking: *"when are you going to share a full DevOps project?"*
-
-Well — here we are.
-
-In this series we will:
 
 - Build microservices locally
 - Use Claude and AI tools to assist development
@@ -23,9 +7,6 @@ In this series we will:
 - Set up a full CI/CD pipeline with GitHub Actions
 - Implement GitOps workflows with ArgoCD
 - Integrate AIOps capabilities with AWS Bedrock
-
-By the end of this series, you won't just know tools — you'll understand how real DevOps systems are designed and deployed.
-
 ---
 
 ## Repository Structure
@@ -123,26 +104,6 @@ Finally, we explore how AI helps with:
 
 Because modern DevOps is no longer just automation — it's **automation + intelligence**.
 
----
-
-## Bonus Challenge
-
-You'll get access to this entire repository.
-
-But there's a catch.
-
-The repository includes **intentional issues and troubleshooting tasks**.
-
-Why? Because AI has made things easier. But if you want to grow as an engineer, you must learn how to break systems, debug systems, and fix systems.
-
-Once you implement the project:
-
-1. Fork the repository
-2. Deploy the system
-3. Troubleshoot the issues
-4. Share what you learned — and tag me so I know you're building along
-
----
 
 ## Tech Stack
 
